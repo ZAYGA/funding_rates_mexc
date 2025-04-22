@@ -18,3 +18,8 @@ Bot send 10 best positive/negative funding rates in MEXC every ten minutes
 
 looks like this ![image](https://github.com/user-attachments/assets/cabb632f-8767-4d61-b843-743cf4a89e95)
 
+
+This project was made by ZAYGA and Cryptotenix. If you want to make Smart dca you can go here:
+
+https://botdca.com/
+
